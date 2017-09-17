@@ -20,3 +20,6 @@
 
 <iframe src="https://botapad.padagraph.io/import/igraph.html?s=framapad&gid=game_of_thrones&nofoot=1" style="width:100%; height:600px"/>
 
+---
+#### Download project on github
+https://github.com/ynnk/foldr-pdg-got/archive/master.zip
