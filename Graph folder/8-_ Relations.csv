@@ -1,0 +1,64 @@
+,
+"_ Killed: how",
+"Walder -- Catelyn"," stab"
+"Arya -- Walder"," knife cut the throat"
+"NightKing -- Viserion"," javelin throw "
+"Ned -- Lady"," stab"
+"Tyrion -- Tywin"," crossbow"
+"Joffrey -- Ned"," behead"
+"Olenna -- Joffrey"," poison"
+"Jaime -- Olenna"," poison"
+,
+,
+"_ Affair: description",
+"Cersei -- Jaime"," incestual affair"
+"Catelyn -- Ned"," love"
+"Tyrion -- Sansa"," married"
+"Sansa -- Joffrey","  engaged"
+"Jon -- Daenerys"," incestual affair"
+,
+"_ Child",
+"Arya -- Ned",
+"Arya -- Catelyn",
+"Sansa -- Ned",
+"Sansa -- Catelyn",
+"Tyrion -- Tywin",
+"Cersei -- Tywin",
+"Jaime -- Tywin",
+"Joffrey -- Jaime",
+"Joffrey -- Cersei",
+"Viserion -- Daenerys",
+,
+"_ Sibling",
+"Arya -- Sansa",
+"Jon -- Sansa",
+"Jon -- Arya",
+"Cersei -- Jaime",
+,
+"_ Nephew",
+"Jon -- Daenerys",
+"Jon -- Ned",
+"Joffrey -- Tyrion ",
+,
+_Owns,
+"Sansa -- Lady",
+"Arya -- Nymeria",
+,
+"_ Place",
+"Winterfell -- Ned",
+"Winterfell -- Jon",
+"Winterfell -- Sansa",
+"Winterfell -- Arya",
+"KLanding -- Cersei",
+"KLanding -- Jaime",
+"KLanding -- Joffrey",
+"CBlack -- Jon",
+"Beyond -- NightKing",
+"Beyond -- Lady",
+"Beyond -- Nymeria",
+"Dragonstone -- Daenerys",
+"Dragonstone -- Tyrion",
+"Dragonstone -- Viserion",
+"Braavos -- Arya",
+"Fork -- Walder",
+"Highgarden -- Olenna",

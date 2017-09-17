@@ -1,0 +1,17 @@
+﻿!; 
+
+
+! Game of Thrones Botapad import
+
+
+! @ Characteres nodes defined in multiple pads
+
+
+& http://ethercalc.org/pdg-got-characteres
+& http://ethercalc.org/pdg-got-places
+
+
+! _ Relations
+
+
+& https://ethercalc.org/rk6rm5wf7jmk
